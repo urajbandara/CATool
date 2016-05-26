@@ -1,0 +1,7 @@
+<caconfig>
+	<init type="f">
+		<file src="init.txt"/>
+	</init>
+	<socialnetwork include="false">
+	</socialnetwork>
+</caconfig>

@@ -1,0 +1,16 @@
+<caconfig>
+	<init type="f">
+		<file src="init.txt"/>
+	</init>
+	<socialnetwork include="true" usertype="1">
+		<network name="net1">
+			<file src="net1.txt"/>  
+		</network>
+		<network name="net2">
+			<file src="net2.txt"/>
+		</network>
+		<network name="net3">
+			<file src="net3.txt"/>
+		</network>
+	</socialnetwork>
+</caconfig>
